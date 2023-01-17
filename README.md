@@ -14,14 +14,15 @@ Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
 
 ### Socials
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/mahesh-paul/](https://www.linkedin.com/in/mahesh-paul/))
+[![LinkedIn Badge](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)]([https://www.linkedin.com/in/mahesh-paul/](https://www.linkedin.com/in/mahesh-paul/))
 
 ### My Skills
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="[https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" awidth="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a> 
+  
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" awidth="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="40" height="40"/> </a> 
+  <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/> </a> </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=CityIsBetter&color=grey" alt="CityIsBetter"/></p>
