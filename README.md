@@ -17,7 +17,7 @@ Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
 <a href="https://twitter.com/CityIsBetter_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40" height="40"/> </a>
 <a href="https://linkedin/in/mahesh-paul" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40"/> </a>
 <a href="https://instagram.com/mahesh_paul_j" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/> </a>
-<a href="mailto:mahesh.paulj@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png" width="40" height="40"/> </a>
+<a href="mailto:mahesh.paulj@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="40" height="40"/> </a>
 
 
 ### My Skills
