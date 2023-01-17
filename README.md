@@ -10,6 +10,8 @@ Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CityIsBetter&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/CityIsBetter)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CityIsBetter&layout=compact&theme=dark)](https://github.com/CityIsBetter)
+[![CityIsBetter's GitHub stats](https://github-readme-stats.vercel.app/api?username=CityIsBetter)](https://github.com/CityIsBetter/)
+
 [![Mahesh Paul](https://github-readme-activity-graph.cyclic.app/graph?username=CityIsBetter&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Socials
