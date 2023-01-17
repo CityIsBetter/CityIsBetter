@@ -1,4 +1,4 @@
-[![Mahesh Paul's GitHub Banner](./profilebanner.png)]
+<a target="blank"><img align="center" src="profilebanner.png" height="100" /></a>
 
 |---|---|
 Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
