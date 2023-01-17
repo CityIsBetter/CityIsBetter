@@ -1,4 +1,4 @@
-<a target="blank"><img align="center" src="profilebanner.png" height="852" /></a>
+<a target="blank"><img align="center" src="profilebanner.png" height="250" /></a>
 
 |---|---|
 Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
