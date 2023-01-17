@@ -1,4 +1,4 @@
-[![Mahesh Paul's GitHub Banner](/github_banner.png)](https://github.com/CityIsBetter)
+[![Mahesh Paul's GitHub Banner](./github_banner.png)](https://github.com/CityIsBetter)
 
 
 
