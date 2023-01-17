@@ -8,3 +8,5 @@ Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
 
 ### My Commits
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CityIsBetter&theme=tokyonight&mode=weekly&background=000000C6)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CityIsBetter)](https://github.com/anuraghazra/github-readme-stats)
