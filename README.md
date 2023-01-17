@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Mahesh Paul's GitHub Banner](github_banner.png)](https://github.com/CityIsBetter)
+
 
 
 Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
