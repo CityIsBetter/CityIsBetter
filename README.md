@@ -26,6 +26,7 @@ Hi, I'm Mahesh Paul - a CS student, who loves to work on techy stuffs.
 <p align="left">
   
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" awidth="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="40" height="40"/> </a> 
   <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> </a>
