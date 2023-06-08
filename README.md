@@ -31,7 +31,7 @@ Hi, I'm Mahesh Paul - a CS student, Tech Enthusiastic
   <a> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" awidth="40" height="40"/> </a>
   <a> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="40" height="40"/> </a> 
   <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> </a>
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> </a>
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/> </a> </p>
+  <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/> </a>
+  <a> <img src="https://proyectoidis.org/wp-content/uploads/2015/07/Blender-Alpha_00000.png" width="40" height="40"/> </a></p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=CityIsBetter&color=grey" alt="CityIsBetter"/></p>
