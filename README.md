@@ -17,7 +17,7 @@ Hi, I'm Mahesh Paul - a CS student, Tech Enthusiastic
 [![Mahesh Paul](https://github-readme-activity-graph.cyclic.app/graph?username=CityIsBetter&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>My Socials</h1>
-<a href="https://www.hackerrank.com/mahesh_paul_j"> <img src="https://fontawesome.com/v5/icons/hackerrank?f=brands&s=solid" width="40" height="40"/> </a>
+<a href="https://www.hackerrank.com/mahesh_paul_j"> <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="40" height="40"/> </a>
 <a href="https://twitter.com/CityIsBetter_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40" height="40"/> </a>
 <a href="https://linkedin/in/mahesh-paul" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40"/> </a>
 <a href="https://instagram.com/mahesh_paul_j" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/> </a>
