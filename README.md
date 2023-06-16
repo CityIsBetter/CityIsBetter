@@ -14,7 +14,7 @@ Hi, I'm Mahesh Paul - a CS student, Tech Enthusiastic
 
 [![CityIsBetter's GitHub stats](https://github-readme-stats.vercel.app/api?username=CityIsBetter&show_icons=true&theme=radical)](https://github.com/CityIsBetter/)
 
-[![Mahesh Paul](https://github-readme-activity-graph.cyclic.app/graph?username=CityIsBetter&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahesh Paul](https://github-readme-activity-graph.vercel.app/graph?username=CityIsBetter&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>My Socials</h1>
 <a href="https://www.hackerrank.com/mahesh_paul_j"> <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="40" height="40"/> </a>
