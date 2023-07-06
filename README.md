@@ -7,7 +7,7 @@ Hi, I'm Mahesh Paul - a CS student, Tech Enthusiastic
 - trying my best to learn more about coding
 
 # Take a look at my PortFolio
-[![Click here!]](https://maheshpaul.netlify.app/)
+[Click here!](https://maheshpaul.netlify.app/)
 
 <h1>My Github Stats</h1>
 
