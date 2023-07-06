@@ -6,6 +6,9 @@ Hi, I'm Mahesh Paul - a CS student, Tech Enthusiastic
 - I'm still a newbie to coding
 - trying my best to learn more about coding
 
+# Take a look at my PortFolio
+![Click here!](https://maheshpaul.netlify.app/)
+
 <h1>My Github Stats</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CityIsBetter&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/CityIsBetter)
