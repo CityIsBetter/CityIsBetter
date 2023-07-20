@@ -1,13 +1,10 @@
-<a target="blank"><img align="center" src="profilebanner.png" height="250" /></a>
 
+<h1><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width=50px height=50px />   Hi! , I'm Mahesh Paul </h1>
 
-Hi, I'm Mahesh Paul - a CS student, Tech Enthusiastic
-
-- I'm still a newbie to coding
-- trying my best to learn more about coding
+I'm an 18-year-old tech enthusiast with a passion for software development. Ever since I was young, I've been fascinated by technology. I'm excited to see where this journey takes me and I can't wait to keep learning and growing as a developer.
 
 # Take a look at my Portfolio
-# 👉[Click here!](https://maheshpaul.netlify.app/)
+👉[Click here!](https://maheshpaul.netlify.app/)
 
 <h1>My Github Stats</h1>
 
