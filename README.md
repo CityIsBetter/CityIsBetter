@@ -7,7 +7,7 @@ I'm an 18-year-old tech enthusiast with a passion for software development. Ever
 
 [Take a look at my Portfolio](https://maheshpaul.netlify.app/)
 
-<h1>My Skills</h1>
+<h1>My Skills ⚒️</h1>
 <p align="left">
   
   <a> <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="40" height="40"/> </a> 
@@ -19,7 +19,7 @@ I'm an 18-year-old tech enthusiast with a passion for software development. Ever
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://proyectoidis.org/wp-content/uploads/2015/07/Blender-Alpha_00000.png" width="40" height="40"/> </a></p>
 
-<h1>My Github Stats</h1>
+<h1>My Github Stats 📊</h1>
 
 | My Github streak | My Github Stats | My Most used Languages |
 |---|---|---|
@@ -29,11 +29,11 @@ I'm an 18-year-old tech enthusiast with a passion for software development. Ever
 |---|
 |[![Mahesh Paul](https://github-readme-activity-graph.vercel.app/graph?username=CityIsBetter&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 
-### Github Trophies
+### Github Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CityIsBetter)](https://github.com/CityIsBetter/github-profile-trophy)
 
-<h1>My Socials</h1>
+<h1>My Socials 📱</h1>
 <a href="https://www.hackerrank.com/mahesh_paul_j"> <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="40" height="40"/> </a>
 <a href="https://twitter.com/CityIsBetter_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40" height="40"/> </a>
 <a href="https://linkedin/in/mahesh-paul" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40"/> </a>
