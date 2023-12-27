@@ -3,7 +3,7 @@
 
 **`Computer Science student @ SRM`**
 
-I'm an 18-year-old tech enthusiast with a passion for software development. Ever since I was young, I've been fascinated by technology. I'm excited to see where this journey takes me and I can't wait to keep learning and growing as a developer.
+I'm a tech enthusiast with a passion for software development. Ever since I was young, I've been fascinated by technology. I'm excited to see where this journey takes me and I can't wait to keep learning and growing as a developer.
 
 [Take a look at my Portfolio](https://maheshpaul.netlify.app/)
 
