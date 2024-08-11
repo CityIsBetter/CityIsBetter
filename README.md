@@ -8,16 +8,8 @@ I'm a tech enthusiast with a passion for software development. Ever since I was 
 <a href="https://maheshpaul.vercel.app/" target="_blank">Take a look at my Portfolio</a>
 
 <h1>My Skills ⚒️</h1>
-<p align="left">
-  
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="40" height="40"/> </a> 
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/> </a> 
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" awidth="40" height="40"/> </a>
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="40" height="40"/> </a> 
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> </a>
-  <a> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/> </a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> </a>
-  <a> <img src="https://proyectoidis.org/wp-content/uploads/2015/07/Blender-Alpha_00000.png" width="40" height="40"/> </a></p>
+
+  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,tailwind,js,ts,react,vite,next,nodejs,firebase,git,github,vscode,java,cpp&perline=13)](#)
 
 <h1>My Github Stats 📊</h1>
 
