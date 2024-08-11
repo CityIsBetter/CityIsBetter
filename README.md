@@ -9,7 +9,7 @@ I'm a tech enthusiast with a passion for software development. Ever since I was 
 
 <h1>My Skills ⚒️</h1>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,tailwind,js,ts,react,vite,next,nodejs,firebase,git,github,vscode,java,cpp&perline=13)](#)
+  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,tailwind,js,ts,react,vite,next,nodejs,vercel,netlify,firebase,git,github,vscode,java,cpp&perline=13)](#)
 
 <h1>My Github Stats 📊</h1>
 
